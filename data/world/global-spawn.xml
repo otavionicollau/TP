@@ -14980,10 +14980,6 @@
 		<monster name="Master Grim Reaper" x="-1" y="0" z="7" spawntime="18" />
 	</spawn>
 	<spawn centerx="793" centery="51" centerz="7" radius="5" />
-	<spawn centerx="173" centery="52" centerz="7" radius="2">
-		<monster name="Trainer Slayer" x="-2" y="0" z="7" spawntime="20" />
-		<monster name="Trainer Slayer" x="2" y="0" z="7" spawntime="20" />
-	</spawn>
 	<spawn centerx="343" centery="52" centerz="7" radius="9">
 		<monster name="Draken Abomination" x="-3" y="8" z="7" spawntime="17" />
 	</spawn>

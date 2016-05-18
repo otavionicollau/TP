@@ -14924,6 +14924,7 @@
 	<spawn centerx="159" centery="39" centerz="7" radius="3">
 		<monster name="Bazir" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Bazir" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Obujos" x="0" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="203" centery="39" centerz="7" radius="1">
 		<monster name="Dog" x="-1" y="-1" z="7" spawntime="40" />

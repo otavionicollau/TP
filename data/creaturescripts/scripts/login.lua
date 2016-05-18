@@ -39,6 +39,7 @@ function onLogin(player)
 	player:registerEvent("DodgeSystem")
 	player:registerEvent("CriticalSystem")
      player:registerEvent("Promo20")
+     player:registerEvent("AutoLoot")
 
 -- Critical System
 if player:getCriticalLevel() == -1 then

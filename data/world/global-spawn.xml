@@ -13722,6 +13722,24 @@
 		<monster name="Serpent Spawn" x="0" y="0" z="6" spawntime="30" />
 		<monster name="Humongous Fungus" x="1" y="0" z="6" spawntime="30" />
 	</spawn>
+	<spawn centerx="5548" centery="4814" centerz="6" radius="1">
+		<monster name="Corym Vanguard" x="0" y="0" z="6" spawntime="30" />
+	</spawn>
+	<spawn centerx="5550" centery="4814" centerz="6" radius="1">
+		<monster name="Lagarto Escolhido [*]" x="0" y="0" z="6" spawntime="30" />
+	</spawn>
+	<spawn centerx="5552" centery="4814" centerz="6" radius="1">
+		<monster name="Dona Morte" x="0" y="0" z="6" spawntime="30" />
+	</spawn>
+	<spawn centerx="5556" centery="4814" centerz="6" radius="1">
+		<monster name="Rotworm Mae" x="0" y="0" z="6" spawntime="30" />
+	</spawn>
+	<spawn centerx="5558" centery="4814" centerz="6" radius="1">
+		<monster name="Pirata do Caribe" x="0" y="0" z="6" spawntime="30" />
+	</spawn>
+	<spawn centerx="5560" centery="4814" centerz="6" radius="1">
+		<monster name="Dragon Guardian" x="0" y="0" z="6" spawntime="30" />
+	</spawn>
 	<spawn centerx="5715" centery="4814" centerz="6" radius="1">
 		<monster name="Defiler" x="0" y="0" z="6" spawntime="30" />
 	</spawn>
@@ -14902,6 +14920,10 @@
 	</spawn>
 	<spawn centerx="764" centery="38" centerz="7" radius="5">
 		<monster name="Master Grim Reaper" x="-2" y="1" z="7" spawntime="18" />
+	</spawn>
+	<spawn centerx="159" centery="39" centerz="7" radius="3">
+		<monster name="Bazir" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bazir" x="2" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="203" centery="39" centerz="7" radius="1">
 		<monster name="Dog" x="-1" y="-1" z="7" spawntime="40" />
@@ -22511,6 +22533,26 @@
 	<spawn centerx="5859" centery="4809" centerz="7" radius="1">
 		<monster name="Shaburak Prince" x="0" y="0" z="7" spawntime="30" />
 	</spawn>
+	<spawn centerx="5553" centery="4810" centerz="7" radius="1">
+		<monster name="Training Monk" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5557" centery="4810" centerz="7" radius="1">
+		<monster name="Training Monk" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5561" centery="4810" centerz="7" radius="1">
+		<monster name="Training Monk" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5565" centery="4810" centerz="7" radius="1">
+		<monster name="Training Monk" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5569" centery="4810" centerz="7" radius="1">
+		<monster name="Training Monk" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="5721" centery="4810" centerz="7" radius="1">
 		<monster name="Serpent Spawn" x="0" y="0" z="7" spawntime="30" />
 	</spawn>
@@ -22532,6 +22574,22 @@
 	<spawn centerx="5858" centery="4816" centerz="7" radius="1">
 		<monster name="Lava Golem" x="0" y="-1" z="7" spawntime="30" />
 	</spawn>
+	<spawn centerx="5553" centery="4818" centerz="7" radius="1">
+		<monster name="Training Monk" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5557" centery="4818" centerz="7" radius="1">
+		<monster name="Training Monk" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5565" centery="4818" centerz="7" radius="1">
+		<monster name="Training Monk" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5569" centery="4818" centerz="7" radius="1">
+		<monster name="Training Monk" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Training Monk" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="5744" centery="4818" centerz="7" radius="1">
 		<monster name="Humongous Fungus" x="0" y="0" z="7" spawntime="30" />
 	</spawn>
@@ -22544,11 +22602,27 @@
 	<spawn centerx="5809" centery="4821" centerz="7" radius="1">
 		<monster name="Shaburak Prince" x="0" y="0" z="7" spawntime="30" />
 	</spawn>
+	<spawn centerx="5552" centery="4822" centerz="7" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Training Monk" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5570" centery="4822" centerz="7" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Training Monk" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="5492" centery="4824" centerz="7" radius="1">
 		<npc name="Xodet" x="1" y="0" z="7" spawntime="30" direction="2" />
 	</spawn>
 	<spawn centerx="5741" centery="4824" centerz="7" radius="1">
 		<monster name="Serpent Spawn" x="0" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5552" centery="4826" centerz="7" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Training Monk" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="5570" centery="4826" centerz="7" radius="1">
+		<monster name="Training Monk" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Training Monk" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="5493" centery="4833" centerz="7" radius="1">
 		<npc name="Imalas" x="0" y="0" z="7" spawntime="30" direction="2" />

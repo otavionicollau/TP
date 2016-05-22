@@ -29270,7 +29270,7 @@
 	<item id="21517" article="an" name="ornate door with a keyhole" />
 	<item id="21518" article="a" name="reward container">
 		<attribute key="weight" value="1800" />
-		<attribute key="containersize" value="100" />
+		<attribute key="containersize" value="50000" />
 		<attribute key="slotType" value="backpack" />
 	</item>
 	<item id="21536" article="a" name="hole">

@@ -4332,9 +4332,9 @@
 		<attribute key="decayTo" value="10021" />
 		<attribute key="transformDeEquipTo" value="6132" />
 		<attribute key="duration" value="14400" />
-		<attribute key="healthGain" value="50" />
+		<attribute key="healthGain" value="1" />
 		<attribute key="healthTicks" value="2000" />
-		<attribute key="manaGain" value="100" />
+		<attribute key="manaGain" value="2" />
 		<attribute key="manaTicks" value="1000" />
 		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
@@ -12450,8 +12450,8 @@
 	<item id="7403" article="a" name="King Sword">
 		<attribute key="description" value="Item adquirido na King Quest ou com King Seller." />
 		<attribute key="weight" value="13000" />
-		<attribute key="defense" value="60" />
-		<attribute key="attack" value="100" />
+		<attribute key="defense" value="30" />
+		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="sword" />
 	</item>
 	<item id="7404" article="an" name="assassin dagger">
@@ -12590,8 +12590,8 @@
 	<item id="7423" article="a" name="King Club">
 		<attribute key="description" value="Item adquirido na King Quest ou com King Seller." />
 		<attribute key="weight" value="12000" />
-		<attribute key="defense" value="60" />
-		<attribute key="attack" value="100" />
+		<attribute key="defense" value="30" />
+		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="club" />
 	</item>
 	<item id="7424" article="a" name="lunar staff">
@@ -12678,8 +12678,8 @@
 	<item id="7435" article="an" name="King Axe">
 		<attribute key="description" value="Item adquirido na King Quest ou com King Seller." />
 		<attribute key="weight" value="8200" />
-		<attribute key="defense" value="52" />
-		<attribute key="attack" value="100" />
+		<attribute key="defense" value="32" />
+		<attribute key="attack" value="70" />
 		<attribute key="weaponType" value="axe" />
 		<attribute key="extradef" value="-2" />
 	</item>
@@ -18511,9 +18511,8 @@
 		<attribute key="weight" value="40" />
 		<attribute key="slotType" value="ring" />
 	</item>
-	<item id="10503" article="a" name="Event Box">
+	<item id="10503" article="a" name="wedding outfit box">
 		<attribute key="weight" value="2500" />
-		<attribute key="description" value="Use para abrir o presente." />
 	</item>
 	<item id="10504" name="tree" />
 	<item fromid="10505" toid="10506" article="a" name="dead tree" />
@@ -22255,11 +22254,12 @@
 		<attribute key="description" value="This small whistle seems used. It seems to make absolutely no sound at all when it is blown." />
 		<attribute key="weight" value="5000" />
 	</item>
-	<item id="13760" article="a" name="Super Divine Staff">
+	<item id="13760" article="a" name="wand of dimensions">
+		<attribute key="description" value="This wand controls the rift between time and space." />
 		<attribute key="weight" value="2800" />
 		<attribute key="weaponType" value="wand" />
 		<attribute key="shootType" value="death" />
-		<attribute key="range" value="8" />
+		<attribute key="range" value="3" />
 	</item>
 	<item fromid="13761" toid="13773" name="rubbish" />
 	<item id="13774" name="torn teddy">
@@ -23571,11 +23571,12 @@
 		<attribute key="duration" value="300" />
 		<attribute key="corpseType" value="venom" />
 	</item>
-	<item id="15400" article="a" name="Epic Divine Staff">
+	<item id="15400" article="a" name="deepling staff">
 		<attribute key="weight" value="8800" />
-		<attribute key="weaponType" value="wand" />
-		<attribute key="shootType" value="death" />
-		<attribute key="range" value="8" />
+		<attribute key="defense" value="23" />
+		<attribute key="attack" value="43" />
+		<attribute key="weaponType" value="club" />
+		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item fromid="15401" toid="15402" name="shallow water" />
 	<item id="15403" article="a" name="necklace of the deep">
@@ -23586,10 +23587,10 @@
 		<attribute key="absorbPercentLifeDrain" value="50" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="15404" article="a" name="Epic Divine Axe">
+	<item id="15404" article="a" name="deepling axe">
 		<attribute key="weight" value="9100" />
-		<attribute key="defense" value="51" />
-		<attribute key="attack" value="120" />
+		<attribute key="defense" value="29" />
+		<attribute key="attack" value="49" />
 		<attribute key="weaponType" value="axe" />
 	</item>
 	<item id="15405" article="a" name="sandfish">
@@ -23655,11 +23656,11 @@
 		<attribute key="showattributes" value="1" />
 		<attribute key="weaponType" value="shield" />
 	</item>
-	<item id="15414" article="an" name="Epic Divine Sword">
+	<item id="15414" article="an" name="ornate mace">
 		<attribute key="weight" value="14900" />
-		<attribute key="attack" value="120" />
-		<attribute key="defense" value="51" />
-		<attribute key="weaponType" value="sword" />
+		<attribute key="attack" value="49" />
+		<attribute key="defense" value="24" />
+		<attribute key="weaponType" value="club" />
 	</item>
 	<item id="15421" article="a" name="spellsinger's seal">
 		<attribute key="weight" value="190" />
@@ -23967,13 +23968,14 @@
 		<attribute key="description" value="A true Heart of the Sea, cut by Deeplings in depths of deepest black." />
 		<attribute key="weight" value="970" />
 	</item>
-	<item id="15643" article="a" name="Super Divine Bow">
+	<item id="15643" article="a" name="hive bow">
 		<attribute key="weight" value="4600" />
+		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
-		<attribute key="range" value="8" />
-		<attribute key="hitChance" value="12" />
-		<attribute key="attack" value="15" />
+		<attribute key="range" value="6" />
+		<attribute key="hitChance" value="5" />
+		<attribute key="attack" value="2" />
 	</item>
 	<item id="15644" article="an" name="ornate crossbow">
 		<attribute key="weight" value="9100" />
@@ -23994,10 +23996,10 @@
 		<attribute key="containerSize" value="20" />
 		<attribute key="slotType" value="backpack" />
 	</item>
-	<item id="15647" article="a" name="Epic Divine Club">
+	<item id="15647" article="a" name="deepling squelcher">
 		<attribute key="weight" value="8900" />
-		<attribute key="attack" value="120" />
-		<attribute key="defense" value="51" />
+		<attribute key="attack" value="44" />
+		<attribute key="defense" value="28" />
 		<attribute key="weaponType" value="club" />
 	</item>
 	<item id="15648" article="a" name="tarsal arrow">
@@ -26397,11 +26399,9 @@
 		<attribute key="weight" value="240" />
 		<attribute key="description" value="It contains the teeth of many easy victims." />
 	</item>
-	<item id="20128" article="a" name="Divine Staff" plural="Divine Staffs">
+	<item id="20128" article="a" name="lost husher's staff" plural="lost husher's staves">
 		<attribute key="weight" value="800" />
-		<attribute key="weaponType" value="wand" />
-		<attribute key="shootType" value="death" />
-		<attribute key="range" value="4" />
+		<attribute key="description" value="It contains the dark energy of the basalt spheres." />
 	</item>
 	<item id="20129" article="a" name="skull shatterer">
 		<attribute key="weight" value="380" />
@@ -29270,7 +29270,7 @@
 	<item id="21517" article="an" name="ornate door with a keyhole" />
 	<item id="21518" article="a" name="reward container">
 		<attribute key="weight" value="1800" />
-		<attribute key="containersize" value="50000" />
+		<attribute key="containersize" value="100" />
 		<attribute key="slotType" value="backpack" />
 	</item>
 	<item id="21536" article="a" name="hole">
@@ -29334,13 +29334,14 @@
 	<item id="21644" article="a" name="large berg crystal" />
 	<item fromid="21645" toid="21646" name="large berg crystals" />
 	<item id="21647" article="a" name="berg crystal" />
-	<item id="21690" article="a" name="Epic Divine Crossbow">
+	<item id="21690" article="a" name="triple bolt crossbow">
 		<attribute key="weight" value="6200" />
+		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="bolt" />
-		<attribute key="range" value="8" />
-		<attribute key="hitChance" value="14" />
-		<attribute key="attack" value="17" />
+		<attribute key="range" value="5" />
+		<attribute key="attack" value="3" />
+		<attribute key="hitChance" value="2" />
 	</item>
 	<item id="21691" article="a" name="shrunken head necklace">
 		<attribute key="weight" value="550" />
@@ -29367,9 +29368,9 @@
 		<attribute key="weight" value="4200" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
-		<attribute key="range" value="8" />
-		<attribute key="attack" value="10" />
-		<attribute key="hitChance" value="8" />
+		<attribute key="range" value="6" />
+		<attribute key="attack" value="4" />
+		<attribute key="hitChance" value="5" />
 	</item>
 	<item id="21697" article="a" name="runic ice shield">
 		<attribute key="weight" value="4900" />
@@ -30722,7 +30723,7 @@
 		<attribute key="duration" value="600" />
 		<attribute key="corpseType" value="blood" />
 	</item>
-	<item id="23474" article="a" name="Halloween Quest Teleport">
+	<item id="23474" article="a" name="glooth injection tube">
 		<attribute key="weight" value="1400" />
 	</item>
 	<item fromid="23475" toid="23476" article="a" name="juicy root" />
@@ -30797,11 +30798,11 @@
 	<item id="23523" article="a" name="strangely coloured glooth">
 		<attribute key="description" value="This glooth is of a strange blue colour." />
 	</item>
-	<item id="23529" article="a" name="Divine Spear">
-		<attribute key="attack" value="108" />
+	<item id="23529" article="a" name="glooth spear">
+		<attribute key="attack" value="55" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="gloothspear" />
-		<attribute key="range" value="8" />
+		<attribute key="range" value="3" />
 		<attribute key="weight" value="2600" />
 	</item>
 	<item id="23535" article="a" name="glooth cape">
@@ -30858,10 +30859,11 @@
 		<attribute key="weaponType" value="club" />
 		<attribute key="weight" value="3200" />
 	</item>
-	<item id="23544" article="a" name="Divine Club">
-		<attribute key="defense" value="67" />
-		<attribute key="attack" value="119" />
+	<item id="23544" article="a" name="moohtant cudgel">
+		<attribute key="defense" value="21" />
+		<attribute key="attack" value="47" />
 		<attribute key="weaponType" value="club" />
+		<attribute key="slotType" value="two-handed" />
 		<attribute key="weight" value="8500" />
 	</item>
 	<item id="23545" article="a" name="mino lance">
@@ -30875,35 +30877,45 @@
 		<attribute key="weaponType" value="shield" />
 		<attribute key="weight" value="6500" />
 	</item>
-	<item id="23547" article="an" name="Divine Axe">
-		<attribute key="defense" value="67" />
-		<attribute key="attack" value="119" />
+	<item id="23547" article="an" name="execowtioner axe">
+		<attribute key="defense" value="18" />
+		<attribute key="attack" value="46" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="slotType" value="two-handed" />
 		<attribute key="weight" value="8200" />
 	</item>
-	<item id="23548" article="a" name="Divine Sword">
-		<attribute key="defense" value="65" />
-		<attribute key="extradef" value="2" />
-		<attribute key="attack" value="119" />
+	<item id="23548" article="a" name="cowtana">
+		<attribute key="defense" value="19" />
+		<attribute key="extradef" value="1" />
+		<attribute key="attack" value="34" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="weight" value="2800" />
 	</item>
-	<item id="23549" article="a" name="Super Divine Club">
-		<attribute key="defense" value="75" />
-		<attribute key="attack" value="138" />
+	<item id="23549" article="a" name="glooth club">
+		<attribute key="defense" value="1" />
+		<attribute key="attack" value="39" />
 		<attribute key="weaponType" value="club" />
+		<attribute key="slotType" value="two-handed" />
+		<attribute key="elementEarth" value="26" />
+		<attribute key="charges" value="2" />
 		<attribute key="weight" value="1900" />
 	</item>
-	<item id="23550" article="a" name="Super Divine Sword">
-		<attribute key="defense" value="75" />
-		<attribute key="attack" value="138" />
+	<item id="23550" article="a" name="glooth blade">
+		<attribute key="defense" value="1" />
+		<attribute key="attack" value="39" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="slotType" value="two-handed" />
+		<attribute key="elementEarth" value="26" />
+		<attribute key="charges" value="2" />
 		<attribute key="weight" value="1900" />
 	</item>
-	<item id="23551" article="a" name="Super Divine Axe">
-		<attribute key="defense" value="75" />
-		<attribute key="attack" value="138" />
+	<item id="23551" article="a" name="glooth axe">
+		<attribute key="defense" value="1" />
+		<attribute key="attack" value="39" />
 		<attribute key="weaponType" value="axe" />
+		<attribute key="slotType" value="two-handed" />
+		<attribute key="elementEarth" value="26" />
+		<attribute key="charges" value="2" />
 		<attribute key="weight" value="1900" />
 	</item>
 	<item id="23553" article="a" name="glob of glooth">
@@ -31062,10 +31074,6 @@
 		<attribute key="decayTo" value="24331" />
 		<attribute key="duration" value="3" />
 		<attribute key="description" value="Only the real killers can touch me! This item was awarded by TibiaBrasileiros.com." />
-	</item>
-	<item id="24759" article="an" name="Vip III Teleport">
-		<attribute key="weight" value="2613" />
-		<attribute key="description" value="Use para ir matar o boss." />
 	</item>
 	<item id="24772" article="an" name="Little Adventurer Doll">
 		<attribute key="weight" value="2613" />

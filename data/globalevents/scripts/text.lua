@@ -1,5 +1,5 @@
 local effects = {
-    {position = Position(160, 49, 7), text = 'Teleports', effect = CONST_ME_GROUNDSHAKER},
+    {position = Position(160, 49, 7), text = 'BONUS', effect = CONST_ME_GROUNDSHAKER},
     {position = Position(281, 254, 8), text = 'TP Room'}, -- text only
     {position = Position(307, 254, 1), text = 'Event', effect = CONST_ME_GROUNDSHAKER},
 }
@@ -21,5 +21,3 @@ function onThink(interval)
     end
    return true
 end
- 
-Last edited: Feb 17, 2015

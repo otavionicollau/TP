@@ -14230,6 +14230,15 @@
 	<spawn centerx="5753" centery="4815" centerz="6" radius="1">
 		<monster name="Serpent Spawn" x="0" y="0" z="6" spawntime="30" />
 	</spawn>
+	<spawn centerx="5563" centery="4816" centerz="6" radius="5">
+		<monster name="Magician Mage" x="-1" y="-2" z="6" spawntime="20" />
+		<monster name="Massive Earth Giant" x="1" y="-2" z="6" spawntime="20" />
+		<monster name="Cheap Stinger" x="3" y="-2" z="6" spawntime="20" />
+		<monster name="Toad Turtle" x="-3" y="5" z="6" spawntime="20" />
+		<monster name="Cheap Stinger" x="-1" y="5" z="6" spawntime="20" />
+		<monster name="Spider Fiery" x="1" y="5" z="6" spawntime="20" />
+		<monster name="Grim Dark Reaper" x="3" y="5" z="6" spawntime="20" />
+	</spawn>
 	<spawn centerx="5711" centery="4816" centerz="6" radius="1">
 		<monster name="Serpent Spawn" x="0" y="0" z="6" spawntime="30" />
 	</spawn>

@@ -4326,6 +4326,7 @@
 		<monster name="Ghazbaran" x="-1" y="3" z="5" spawntime="29" />
 		<monster name="Hand of Cursed Fate" x="-1" y="4" z="5" spawntime="29" />
 	</spawn>
+	<spawn centerx="5731" centery="4535" centerz="5" radius="15" />
 	<spawn centerx="6328" centery="4555" centerz="5" radius="1">
 		<monster name="Hydra" x="0" y="-1" z="5" spawntime="50" />
 		<monster name="Hydra" x="-1" y="1" z="5" spawntime="50" />
@@ -13893,6 +13894,10 @@
 		<monster name="Demon" x="-3" y="1" z="6" spawntime="29" />
 		<monster name="Grim Reaper" x="-2" y="1" z="6" spawntime="20" />
 	</spawn>
+	<spawn centerx="5731" centery="4532" centerz="6" radius="15">
+		<monster name="Demodras" x="-2" y="0" z="6" spawntime="10" />
+		<monster name="Demodras" x="1" y="3" z="6" spawntime="10" />
+	</spawn>
 	<spawn centerx="6454" centery="4535" centerz="6" radius="1" />
 	<spawn centerx="6467" centery="4538" centerz="6" radius="1" />
 	<spawn centerx="6448" centery="4541" centerz="6" radius="1" />
@@ -22987,7 +22992,899 @@
 		<monster name="Orshabaal" x="-3" y="0" z="7" spawntime="60" />
 		<monster name="Orshabaal" x="4" y="3" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="5609" centery="4269" centerz="7" radius="100">
+		<monster name="StrongFreak" x="-12" y="-78" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="6" y="-74" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-28" y="-73" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-7" y="-73" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="26" y="-73" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-34" y="-70" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-11" y="-67" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-21" y="-66" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="13" y="-66" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="34" y="-66" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="42" y="-66" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-7" y="-64" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="7" y="-61" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="30" y="-61" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-34" y="-60" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-27" y="-60" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-11" y="-58" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-6" y="-55" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-39" y="-54" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-21" y="-54" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="14" y="-54" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="35" y="-52" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-10" y="-49" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-42" y="-48" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-28" y="-48" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="30" y="-48" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="6" y="-46" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-6" y="-43" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-40" y="-42" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-21" y="-42" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="36" y="-42" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="14" y="-40" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-11" y="-37" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-28" y="-36" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="30" y="-35" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-46" y="-34" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="4" y="-33" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-22" y="-32" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="37" y="-32" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-40" y="-31" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-5" y="-31" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-12" y="-28" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="29" y="-26" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-43" y="-25" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="14" y="-25" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-29" y="-24" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-3" y="-24" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="35" y="-20" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-21" y="-19" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-12" y="-19" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-38" y="-18" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="6" y="-18" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-15" y="-13" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-8" y="-13" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="3" y="-13" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-41" y="-12" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="28" y="-12" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-27" y="-11" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="17" y="-11" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="-8" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="2" y="-5" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="2" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="2" y="8" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-1" y="13" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="3" y="19" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="24" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="3" y="27" z="7" spawntime="30" />
+		<monster name="Shorty" x="-23" y="30" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="32" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-45" y="34" z="7" spawntime="30" />
+		<monster name="Shorty" x="-20" y="36" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-93" y="37" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="3" y="37" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-42" y="40" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-86" y="41" z="7" spawntime="30" />
+		<monster name="Shorty" x="-25" y="41" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-93" y="44" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="44" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-64" y="46" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-47" y="46" z="7" spawntime="30" />
+		<monster name="Shorty" x="-20" y="46" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-87" y="48" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="2" y="48" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-68" y="51" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-42" y="51" z="7" spawntime="30" />
+		<monster name="Shorty" x="-25" y="51" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-92" y="52" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="53" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-64" y="56" z="7" spawntime="30" />
+		<monster name="Shorty" x="-20" y="56" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-86" y="57" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-47" y="57" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="4" y="58" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-68" y="61" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-93" y="62" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-42" y="62" z="7" spawntime="30" />
+		<monster name="Shorty" x="-24" y="62" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="63" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-63" y="65" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="2" y="66" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-87" y="67" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-47" y="67" z="7" spawntime="30" />
+		<monster name="Shorty" x="-20" y="67" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-68" y="70" z="7" spawntime="30" />
+		<monster name="Shorty" x="-25" y="71" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-93" y="72" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-42" y="72" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="73" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-63" y="74" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-86" y="77" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-68" y="77" z="7" spawntime="30" />
+		<monster name="Shorty" x="-19" y="77" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-47" y="78" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="3" y="78" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-64" y="81" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-92" y="82" z="7" spawntime="30" />
+		<monster name="Shorty" x="-24" y="82" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-68" y="84" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-42" y="84" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-1" y="84" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-86" y="86" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-64" y="88" z="7" spawntime="30" />
+		<monster name="Shorty" x="-21" y="88" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-47" y="89" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="3" y="89" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-93" y="91" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-68" y="91" z="7" spawntime="30" />
+		<monster name="Shorty" x="-25" y="92" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-86" y="95" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-63" y="95" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-42" y="95" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-1" y="95" z="7" spawntime="30" />
+		<monster name="Shorty" x="-20" y="96" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-68" y="99" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="3" y="99" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-93" y="100" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-47" y="100" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5519" centery="4367" centerz="7" radius="5">
+		<monster name="StrongFreak" x="5" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5609" centery="4367" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5587" centery="4368" centerz="7" radius="5">
+		<monster name="Shorty" x="-1" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4371" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="3" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5519" centery="4373" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-3" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5565" centery="4373" centerz="7" radius="5">
+		<monster name="Captain Freak" x="2" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5586" centery="4373" centerz="7" radius="5">
+		<monster name="Shorty" x="3" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4374" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="-2" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5610" centery="4379" centerz="7" radius="5">
+		<monster name="StrongFreak" x="2" y="-2" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-3" y="2" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5565" centery="4380" centerz="7" radius="5">
+		<monster name="Captain Freak" x="-3" y="1" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5516" centery="4381" centerz="7" radius="5">
+		<monster name="StrongFreak" x="0" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4381" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="3" y="1" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5586" centery="4382" centerz="7" radius="5">
+		<monster name="Shorty" x="-2" y="-1" z="7" spawntime="30" />
+		<monster name="Shorty" x="4" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5522" centery="4383" centerz="7" radius="5">
+		<monster name="StrongFreak" x="1" y="-2" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="1" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5586" centery="4386" centerz="7" radius="5">
+		<monster name="Shorty" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5610" centery="4386" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-4" y="2" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="3" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5565" centery="4388" centerz="7" radius="5">
+		<monster name="Captain Freak" x="-3" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4390" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="2" y="1" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-3" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5522" centery="4391" centerz="7" radius="5">
+		<monster name="StrongFreak" x="1" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5721" centery="4391" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5750" centery="4391" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5756" centery="4391" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5763" centery="4391" centerz="7" radius="1">
+		<monster name="dragonz" x="1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5677" centery="4393" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="-3" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5585" centery="4394" centerz="7" radius="5">
+		<monster name="Shorty" x="5" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5654" centery="4395" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="4" y="-2" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="-4" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5663" centery="4395" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="3" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5718" centery="4395" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5726" centery="4395" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5518" centery="4397" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-3" y="-5" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5565" centery="4397" centerz="7" radius="5">
+		<monster name="Captain Freak" x="2" y="-2" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="-3" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5748" centery="4397" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4398" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="3" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5610" centery="4398" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-3" y="-3" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="2" y="0" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-4" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5744" centery="4398" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5767" centery="4398" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5730" centery="4399" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5713" centery="4400" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5738" centery="4400" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5587" centery="4401" centerz="7" radius="5">
+		<monster name="Shorty" x="-3" y="0" z="7" spawntime="30" />
+		<monster name="Shorty" x="2" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5678" centery="4401" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="0" y="-2" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="-3" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5609" centery="4403" centerz="7" radius="5">
+		<monster name="StrongFreak" x="2" y="2" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-3" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5755" centery="4403" centerz="7" radius="1">
+		<monster name="dragonz" x="1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5565" centery="4405" centerz="7" radius="5">
+		<monster name="Captain Freak" x="2" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5653" centery="4405" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="2" y="-3" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="-4" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5747" centery="4405" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4407" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="-3" y="-2" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="3" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5677" centery="4407" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="3" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5715" centery="4407" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5517" centery="4408" centerz="7" radius="5">
+		<monster name="StrongFreak" x="5" y="-4" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-1" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5764" centery="4408" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5587" centery="4409" centerz="7" radius="5">
+		<monster name="Shorty" x="-3" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5718" centery="4413" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5747" centery="4413" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5653" centery="4414" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="2" y="-2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4415" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="-3" y="0" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="3" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5609" centery="4415" centerz="7" radius="5">
+		<monster name="StrongFreak" x="2" y="-2" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="1" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5565" centery="4416" centerz="7" radius="5">
+		<monster name="Captain Freak" x="-3" y="-4" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="2" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5678" centery="4416" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="-3" y="-1" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="1" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5753" centery="4417" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5765" centery="4417" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5517" centery="4418" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-2" y="1" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="5" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5524" centery="4418" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-1" y="-3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5718" centery="4418" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5731" centery="4418" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5587" centery="4419" centerz="7" radius="5">
+		<monster name="Shorty" x="3" y="-3" z="7" spawntime="30" />
+		<monster name="Shorty" x="-3" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5736" centery="4421" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5750" centery="4421" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4424" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="-2" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5713" centery="4424" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5564" centery="4425" centerz="7" radius="5">
+		<monster name="Captain Freak" x="-2" y="-2" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="3" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5647" centery="4425" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="4" y="-5" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="-3" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5517" centery="4426" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-2" y="0" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="5" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5630" centery="4426" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="4" y="-5" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="-3" y="1" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="1" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5735" centery="4426" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5609" centery="4427" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-2" y="-3" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="2" y="1" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5588" centery="4428" centerz="7" radius="5">
+		<monster name="Shorty" x="2" y="-2" z="7" spawntime="30" />
+		<monster name="Shorty" x="-4" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5677" centery="4428" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="-2" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5708" centery="4428" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5564" centery="4431" centerz="7" radius="5">
+		<monster name="Captain Freak" x="-2" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5751" centery="4431" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5609" centery="4432" centerz="7" radius="5">
+		<monster name="StrongFreak" x="3" y="2" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4433" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="2" y="-3" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-3" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5587" centery="4433" centerz="7" radius="5">
+		<monster name="Shorty" x="2" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5735" centery="4433" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5517" centery="4435" centerz="7" radius="5">
+		<monster name="StrongFreak" x="-1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5628" centery="4435" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="-3" y="0" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="2" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5706" centery="4435" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5721" centery="4436" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5729" centery="4436" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5740" centery="4436" centerz="7" radius="1" />
+	<spawn centerx="5749" centery="4436" centerz="7" radius="1">
+		<monster name="dragonz" x="-1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5677" centery="4437" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="3" y="-3" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="-2" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5565" centery="4439" centerz="7" radius="5">
+		<monster name="Captain Freak" x="2" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5717" centery="4439" centerz="7" radius="1">
+		<monster name="dragonz" x="0" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5544" centery="4440" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="1" y="-1" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-4" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5609" centery="4440" centerz="7" radius="5">
+		<monster name="StrongFreak" x="3" y="0" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5710" centery="4440" centerz="7" radius="1">
+		<monster name="dragonz" x="1" y="0" z="7" spawntime="5" />
+	</spawn>
+	<spawn centerx="5628" centery="4441" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="-2" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5655" centery="4441" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="5" y="-1" z="7" spawntime="30" />
+		<monster name="Captain Sniper" x="-1" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5663" centery="4441" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="4" y="-2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5586" centery="4442" centerz="7" radius="5">
+		<monster name="Shorty" x="-3" y="-2" z="7" spawntime="30" />
+		<monster name="Shorty" x="3" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5609" centery="4447" centerz="7" radius="5">
+		<monster name="StrongFreak" x="3" y="-1" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-2" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4448" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="2" y="0" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5565" centery="4448" centerz="7" radius="5">
+		<monster name="Captain Freak" x="-3" y="-3" z="7" spawntime="30" />
+		<monster name="Captain Freak" x="2" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5629" centery="4449" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="-1" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5655" centery="4449" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="-2" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5586" centery="4453" centerz="7" radius="5">
+		<monster name="Shorty" x="-3" y="-2" z="7" spawntime="30" />
+		<monster name="Shorty" x="0" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5608" centery="4455" centerz="7" radius="5">
+		<monster name="StrongFreak" x="3" y="-2" z="7" spawntime="30" />
+		<monster name="StrongFreak" x="-1" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5644" centery="4455" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="-4" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5654" centery="4455" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="-4" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5543" centery="4456" centerz="7" radius="5">
+		<monster name="Snakebite Master" x="3" y="1" z="7" spawntime="30" />
+		<monster name="Snakebite Master" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5565" centery="4457" centerz="7" radius="5">
+		<monster name="Captain Freak" x="-3" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5627" centery="4457" centerz="7" radius="5">
+		<monster name="Captain Sniper" x="0" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="6021" centery="4472" centerz="7" radius="5">
+		<monster name="Deadeye Devious" x="-4" y="-2" z="7" spawntime="30" />
+		<monster name="Deadeye Devious" x="4" y="2" z="7" spawntime="30" />
+		<monster name="Deadeye Devious" x="-3" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5989" centery="4477" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="-3" y="0" z="7" spawntime="30" />
+		<monster name="Betrayed Wraith" x="4" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="6020" centery="4482" centerz="7" radius="5">
+		<monster name="Deadeye Devious" x="5" y="-2" z="7" spawntime="30" />
+		<monster name="Deadeye Devious" x="-1" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5725" centery="4486" centerz="7" radius="5">
+		<monster name="Apocalypse" x="0" y="-1" z="7" spawntime="25" />
+	</spawn>
+	<spawn centerx="5990" centery="4486" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="-2" y="0" z="7" spawntime="30" />
+		<monster name="Betrayed Wraith" x="5" y="3" z="7" spawntime="30" />
+		<monster name="Betrayed Wraith" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5821" centery="4487" centerz="7" radius="3">
+		<monster name="Ferumbras" x="3" y="0" z="7" spawntime="5" />
+	</spawn>
+	<spawn centerx="5832" centery="4487" centerz="7" radius="3">
+		<monster name="Ferumbras" x="3" y="-2" z="7" spawntime="5" />
+	</spawn>
+	<spawn centerx="5745" centery="4488" centerz="7" radius="15">
+		<monster name="Medusa" x="-5" y="-10" z="7" spawntime="10" />
+		<monster name="Apocalypse" x="1" y="-7" z="7" spawntime="25" />
+	</spawn>
+	<spawn centerx="5810" centery="4488" centerz="7" radius="5">
+		<monster name="Ferumbras" x="-3" y="-1" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="4" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5958" centery="4489" centerz="7" radius="5">
+		<monster name="Hell Boy" x="2" y="-1" z="7" spawntime="30" />
+		<monster name="Hell Boy" x="-1" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5792" centery="4490" centerz="7" radius="5">
+		<monster name="Ferumbras" x="3" y="-3" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="-4" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5921" centery="4490" centerz="7" radius="5">
+		<monster name="Orshabaal" x="3" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="6020" centery="4490" centerz="7" radius="5">
+		<monster name="Deadeye Devious" x="2" y="-1" z="7" spawntime="30" />
+		<monster name="Deadeye Devious" x="-4" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5992" centery="4491" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="2" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5723" centery="4493" centerz="7" radius="5">
+		<monster name="Apocalypse" x="-2" y="0" z="7" spawntime="25" />
+	</spawn>
+	<spawn centerx="5928" centery="4493" centerz="7" radius="5">
+		<monster name="Orshabaal" x="5" y="-3" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="4" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5888" centery="4496" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-3" y="0" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="5" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5992" centery="4496" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="-3" y="2" z="7" spawntime="30" />
+		<monster name="Betrayed Wraith" x="3" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5897" centery="4497" centerz="7" radius="5">
+		<monster name="Orshabaal" x="1" y="-2" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="5" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5915" centery="4497" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-1" y="-1" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="4" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5868" centery="4498" centerz="7" radius="5">
+		<monster name="Orshabaal" x="1" y="-1" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="-3" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5959" centery="4499" centerz="7" radius="5">
+		<monster name="Hell Boy" x="3" y="0" z="7" spawntime="30" />
+		<monster name="Hell Boy" x="-2" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5992" centery="4500" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="-4" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5717" centery="4501" centerz="7" radius="30">
+		<monster name="Medusa" x="2" y="-21" z="7" spawntime="10" />
+		<monster name="Medusa" x="-11" y="-18" z="7" spawntime="10" />
+		<monster name="Apocalypse" x="-20" y="-14" z="7" spawntime="25" />
+		<monster name="Apocalypse" x="-6" y="-7" z="7" spawntime="25" />
+		<monster name="Apocalypse" x="-5" y="8" z="7" spawntime="25" />
+		<monster name="Apocalypse" x="22" y="10" z="7" spawntime="25" />
+		<monster name="Apocalypse" x="10" y="26" z="7" spawntime="25" />
+		<monster name="Medusa" x="16" y="26" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5807" centery="4501" centerz="7" radius="5">
+		<monster name="Ferumbras" x="1" y="-4" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="-4" y="-2" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="4" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5927" centery="4501" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-4" y="1" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="-4" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5748" centery="4502" centerz="7" radius="30">
+		<monster name="Medusa" x="11" y="15" z="7" spawntime="10" />
+		<monster name="Apocalypse" x="8" y="21" z="7" spawntime="25" />
+		<monster name="Apocalypse" x="-7" y="30" z="7" spawntime="25" />
+	</spawn>
+	<spawn centerx="6020" centery="4502" centerz="7" radius="5">
+		<monster name="Deadeye Devious" x="4" y="-1" z="7" spawntime="30" />
+		<monster name="Deadeye Devious" x="-3" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5794" centery="4503" centerz="7" radius="5">
+		<monster name="Ferumbras" x="-1" y="-3" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="-4" y="4" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="5" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5879" centery="4504" centerz="7" radius="5">
+		<monster name="Orshabaal" x="0" y="-5" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="1" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5817" centery="4505" centerz="7" radius="5">
+		<monster name="Ferumbras" x="1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5959" centery="4505" centerz="7" radius="5">
+		<monster name="Hell Boy" x="4" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5990" centery="4507" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="4" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5862" centery="4508" centerz="7" radius="5">
+		<monster name="Orshabaal" x="1" y="-4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5652" centery="4510" centerz="7" radius="5">
+		<monster name="Apocalypse" x="1" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5990" centery="4510" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="-2" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5930" centery="4511" centerz="7" radius="5">
+		<monster name="Orshabaal" x="2" y="-2" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="1" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5631" centery="4512" centerz="7" radius="10">
+		<monster name="Apocalypse" x="-5" y="-6" z="7" spawntime="12" />
+		<monster name="Apocalypse" x="8" y="-5" z="7" spawntime="12" />
+		<monster name="Apocalypse" x="7" y="1" z="7" spawntime="12" />
+		<monster name="Apocalypse" x="-4" y="2" z="7" spawntime="12" />
+		<monster name="Apocalypse" x="-7" y="9" z="7" spawntime="12" />
+	</spawn>
+	<spawn centerx="5825" centery="4512" centerz="7" radius="22">
+		<monster name="Ferumbras" x="9" y="-15" z="7" spawntime="5" />
+		<monster name="Ferumbras" x="4" y="-9" z="7" spawntime="5" />
+		<monster name="Ferumbras" x="12" y="-2" z="7" spawntime="5" />
+		<monster name="Ferumbras" x="-9" y="4" z="7" spawntime="5" />
+		<monster name="Ferumbras" x="12" y="6" z="7" spawntime="5" />
+		<monster name="Ferumbras" x="-2" y="7" z="7" spawntime="5" />
+		<monster name="Ferumbras" x="-7" y="19" z="7" spawntime="5" />
+		<monster name="Ferumbras" x="8" y="19" z="7" spawntime="5" />
+	</spawn>
+	<spawn centerx="5868" centery="4514" centerz="7" radius="5">
+		<monster name="Orshabaal" x="1" y="-4" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5991" centery="4514" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="2" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5959" centery="4515" centerz="7" radius="5">
+		<monster name="Hell Boy" x="-3" y="-3" z="7" spawntime="30" />
+		<monster name="Hell Boy" x="3" y="0" z="7" spawntime="30" />
+		<monster name="Hell Boy" x="-4" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="6019" centery="4515" centerz="7" radius="5">
+		<monster name="Deadeye Devious" x="5" y="-4" z="7" spawntime="30" />
+		<monster name="Deadeye Devious" x="-2" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5990" centery="4519" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="-2" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5879" centery="4520" centerz="7" radius="5">
+		<monster name="Orshabaal" x="1" y="-3" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="0" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5924" centery="4520" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-1" y="-3" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="-1" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5931" centery="4520" centerz="7" radius="5">
+		<monster name="Orshabaal" x="1" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5610" centery="4522" centerz="7" radius="10">
+		<monster name="Apocalypse" x="2" y="-9" z="7" spawntime="12" />
+		<monster name="Apocalypse" x="0" y="-3" z="7" spawntime="12" />
+		<monster name="Apocalypse" x="9" y="2" z="7" spawntime="12" />
+		<monster name="Apocalypse" x="-6" y="4" z="7" spawntime="12" />
+		<monster name="Spector Rapid" x="-2" y="7" z="7" spawntime="10" />
+		<monster name="Orshabaal" x="5" y="9" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5990" centery="4523" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="4" y="3" z="7" spawntime="30" />
+		<monster name="Betrayed Wraith" x="-1" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5572" centery="4524" centerz="7" radius="10">
+		<monster name="Ferumbras" x="-5" y="-8" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="0" y="-7" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="2" y="-4" z="7" spawntime="30" />
+		<monster name="Apocalypse" x="10" y="-1" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="5" y="0" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="-8" y="2" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="-6" y="9" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="-2" y="9" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5650" centery="4524" centerz="7" radius="10">
+		<monster name="Apocalypse" x="-6" y="-6" z="7" spawntime="30" />
+		<monster name="Apocalypse" x="7" y="0" z="7" spawntime="30" />
+		<monster name="Apocalypse" x="-1" y="1" z="7" spawntime="30" />
+		<monster name="Apocalypse" x="-8" y="7" z="7" spawntime="30" />
+		<monster name="Apocalypse" x="8" y="8" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5958" centery="4524" centerz="7" radius="5">
+		<monster name="Hell Boy" x="4" y="0" z="7" spawntime="30" />
+		<monster name="Hell Boy" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5990" centery="4525" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="3" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="6020" centery="4526" centerz="7" radius="5">
+		<monster name="Deadeye Devious" x="4" y="-4" z="7" spawntime="30" />
+		<monster name="Deadeye Devious" x="-2" y="0" z="7" spawntime="30" />
+		<monster name="Deadeye Devious" x="5" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5867" centery="4527" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-2" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5879" centery="4527" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-4" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5886" centery="4529" centerz="7" radius="5">
+		<monster name="Orshabaal" x="1" y="-2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5924" centery="4529" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-1" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5991" centery="4529" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="-3" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="6022" centery="4530" centerz="7" radius="5">
+		<monster name="Deadeye Devious" x="-3" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5761" centery="4533" centerz="7" radius="15">
+		<monster name="Medusa" x="10" y="2" z="7" spawntime="10" />
+		<monster name="Apocalypse" x="-4" y="5" z="7" spawntime="25" />
+	</spawn>
+	<spawn centerx="5959" centery="4533" centerz="7" radius="5">
+		<monster name="Hell Boy" x="4" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5990" centery="4533" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="5" y="4" z="7" spawntime="30" />
+		<monster name="Betrayed Wraith" x="-3" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5867" centery="4535" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-2" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5747" centery="4537" centerz="7" radius="30">
+		<monster name="Apocalypse" x="-25" y="7" z="7" spawntime="25" />
+		<monster name="Medusa" x="-28" y="18" z="7" spawntime="10" />
+	</spawn>
+	<spawn centerx="5885" centery="4538" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-1" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5930" centery="4538" centerz="7" radius="5">
+		<monster name="Orshabaal" x="2" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5990" centery="4538" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="4" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5923" centery="4539" centerz="7" radius="5">
+		<monster name="Orshabaal" x="1" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5959" centery="4540" centerz="7" radius="5">
+		<monster name="Hell Boy" x="-3" y="-1" z="7" spawntime="30" />
+		<monster name="Hell Boy" x="4" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5990" centery="4540" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="6019" centery="4540" centerz="7" radius="5">
+		<monster name="Deadeye Devious" x="-3" y="1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5621" centery="4541" centerz="7" radius="15">
+		<monster name="Orshabaal" x="7" y="-11" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="-14" y="-6" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="1" y="-6" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="12" y="-5" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="-4" y="-1" z="7" spawntime="30" />
+		<monster name="Spector Rapid" x="5" y="-1" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="6" y="6" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="15" y="12" z="7" spawntime="30" />
+		<monster name="Spector Rapid" x="-15" y="15" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="5" y="15" z="7" spawntime="30" />
+		<monster name="Spector Rapid" x="9" y="15" z="7" spawntime="10" />
+	</spawn>
+	<spawn centerx="5866" centery="4543" centerz="7" radius="5">
+		<monster name="Orshabaal" x="0" y="-1" z="7" spawntime="30" />
+		<monster name="Orshabaal" x="0" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="6025" centery="4543" centerz="7" radius="5">
+		<monster name="Deadeye Devious" x="0" y="-3" z="7" spawntime="30" />
+	</spawn>
 	<spawn centerx="6455" centery="4544" centerz="7" radius="1" />
+	<spawn centerx="5991" centery="4545" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="3" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5886" centery="4546" centerz="7" radius="5">
+		<monster name="Orshabaal" x="1" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5990" centery="4547" centerz="7" radius="5">
+		<monster name="Betrayed Wraith" x="-2" y="5" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5647" centery="4549" centerz="7" radius="10">
+		<monster name="Baby Hades" x="-10" y="-10" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="-2" y="-10" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="8" y="-9" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="0" y="-5" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="-8" y="-4" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="7" y="0" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="-1" y="4" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="-10" y="9" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="5" y="10" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5959" centery="4549" centerz="7" radius="5">
+		<monster name="Hell Boy" x="-3" y="-1" z="7" spawntime="30" />
+		<monster name="Hell Boy" x="3" y="4" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5865" centery="4550" centerz="7" radius="5">
+		<monster name="Orshabaal" x="5" y="2" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5575" centery="4551" centerz="7" radius="20">
+		<monster name="Ferumbras" x="-19" y="-19" z="7" spawntime="30" />
+		<monster name="Apocalypse" x="19" y="-18" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="-14" y="-15" z="7" spawntime="30" />
+		<monster name="Apocalypse" x="-2" y="-13" z="7" spawntime="30" />
+		<monster name="Ghazbaran" x="14" y="-13" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="-17" y="-12" z="7" spawntime="30" />
+		<monster name="Baby Hades" x="20" y="-12" z="7" spawntime="30" />
+		<monster name="Ferumbras" x="-8" y="-11" z="7" spawntime="30" />
+		<monster name="Ghazbaran" x="4" y="-6" z="7" spawntime="30" />
+		<monster name="Ghazbaran" x="-18" y="-1" z="7" spawntime="30" />
+		<monster name="Ghazbaran" x="-8" y="0" z="7" spawntime="30" />
+		<monster name="Ghazbaran" x="16" y="0" z="7" spawntime="30" />
+		<monster name="Ghazbaran" x="2" y="6" z="7" spawntime="30" />
+		<monster name="Ghazbaran" x="12" y="10" z="7" spawntime="30" />
+		<monster name="Ghazbaran" x="-16" y="11" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5884" centery="4552" centerz="7" radius="5">
+		<monster name="Orshabaal" x="-5" y="0" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5958" centery="4555" centerz="7" radius="5">
+		<monster name="Hell Boy" x="-3" y="3" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="5957" centery="4562" centerz="7" radius="5">
+		<monster name="Hell Boy" x="5" y="2" z="7" spawntime="30" />
+	</spawn>
 	<spawn centerx="6342" centery="4562" centerz="7" radius="1">
 		<monster name="Hydra" x="-1" y="-1" z="7" spawntime="50" />
 		<monster name="Hydra" x="1" y="1" z="7" spawntime="50" />

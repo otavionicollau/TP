@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talkactions>
+
+  <talkaction words="!elemento"  separator=" " script="elementos.lua"/>
 	<!-- commands -->
-        <talkaction words="!autoloot" separator=" " script="autoloot.lua"/>
+  <talkaction words="!autoloot" separator=" " script="autoloot.lua"/>
 	<talkaction words="!zombie" separator=" " script="zombieEventCommands.lua" />
 	<talkaction words="/save" separator=" " script="save.lua" />
 	<talkaction words="/ban" separator=" " script="ban.lua" />

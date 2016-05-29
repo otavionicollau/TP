@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
+  <!-- STAFFS -->
+
+  <action itemid="25421" script="staffs/staff.lua"/>
+  <action itemid="2184" script="staffs/staff.lua"/>
+  <action itemid="13238" script="staffs/staff.lua"/>
+  <action itemid="12327" script="staffs/staff.lua"/>
+  <action itemid="24839" script="staffs/staff.lua"/>
+
+
   <action itemid="24759" script="vip3item.lua"/>
   <!-- Vips -->
   <action uniqueid="12122" script="vips/vip3.lua"/>
@@ -13,7 +22,7 @@
   <action uniqueid="15414" script="epicdivinequest/epicdivinesword.lua"/>
   <action uniqueid="15404" script="epicdivinequest/epicdivineaxe.lua"/>
   <action uniqueid="15647" script="epicdivinequest/epicdivineclub.lua"/>
-  <action uniqueid="15400" script="epicdivinequest/epicdivinestaff.lua"/>
+  <!-- <action uniqueid="15400" script="epicdivinequest/epicdivinestaff.lua"/> -->
   <action uniqueid="21690" script="epicdivinequest/epicdivinecrossbow.lua"/>
   <!-- Novas Super Divine Quest -->
   <action uniqueid="23550" script="superdivinequest/superdivinesword.lua"/>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creaturescripts>
+	<!-- staffs -->
+	<event type="modalwindow" name="modalElements" script="modalElements.lua"/>
+
 	<!-- Battle Field -->
 	<event type="kill" name="AutoLoot" script="autoloot.lua" />
 	<event type="login" name="battleflogin" script="battlefield.lua"/>

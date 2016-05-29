@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <weapons>
+
+	<wand id="25421" level="8" mana="30" script="elementos/VIP.lua">
+			<vocation name="Druid" />
+			<vocation name="Sorcerer" />
+			<vocation name="Elder Druid" />
+			<vocation name="Master Sorcerer" />
+	</wand>
+
+	<wand id="2184" level="8" mana="10" script="elementos/I.lua">
+			<vocation name="Druid" />
+			<vocation name="Sorcerer" />
+			<vocation name="Elder Druid" />
+			<vocation name="Master Sorcerer" />
+	</wand>
+
+	<wand id="13238" level="8" mana="30" script="elementos/II.lua">
+			<vocation name="Druid" />
+			<vocation name="Sorcerer" />
+			<vocation name="Elder Druid" />
+			<vocation name="Master Sorcerer" />
+	</wand>
+
+	<wand id="22410" level="8" mana="30" script="elementos/III.lua">
+			<vocation name="Druid" />
+			<vocation name="Sorcerer" />
+			<vocation name="Elder Druid" />
+			<vocation name="Master Sorcerer" />
+	</wand>
+
+	<wand id="24839" level="8" mana="30" script="elementos/IV.lua">
+			<vocation name="Druid" />
+			<vocation name="Sorcerer" />
+			<vocation name="Elder Druid" />
+			<vocation name="Master Sorcerer" />
+	</wand>
+
 	<!-- Novas -->
 	<distance id="21696" level="8" unproperly="1"> <!-- King Bow -->
 		<vocation name="Paladin" />
@@ -19,22 +55,7 @@
 		<vocation name="Royal Paladin" showInDescription="0" />
 	</distance>
 
-	<wand id="15400" level="14" mana="100" min="600" max="820" type="holy"> <!-- Epic Divine Staff -->
-		<vocation name="Sorcerer" />
-		<vocation name="Druid" />
-	</wand>
-	<wand id="13760" level="12" mana="80" min="420" max="640" type="death"> <!-- Super Divine Staff -->
-		<vocation name="Sorcerer" />
-		<vocation name="Druid" />
-	</wand>
-	<wand id="20128" level="10" mana="60" min="300" max="500" type="death"> <!-- Divine Staff -->
-		<vocation name="Sorcerer" />
-		<vocation name="Druid" />
-	</wand>
-	<wand id="7414" level="8" mana="40" min="150" max="370" type="death"> <!-- King Staff -->
-		<vocation name="Sorcerer" />
-		<vocation name="Druid" />
-	</wand>
+
 
 	<!-- Rods -->
 	<wand id="2182" level="7" mana="2" min="8" max="18" type="earth"> <!-- Snakebit Rod -->
@@ -482,7 +503,6 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="7410" level="55" unproperly="1" />
 	<melee id="7428" level="55" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
@@ -524,10 +544,6 @@
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="20139" level="20" unproperly="1" />
-	<melee id="22410" level="75" unproperly="1">
-		<vocation name="Knight" />
-		<vocation name="Elite Knight" showInDescription="0" />
-	</melee>
 	<melee id="22411" level="120" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />

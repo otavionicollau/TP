@@ -30,6 +30,8 @@
 			coconut shoes, 9931, 500;
 			composite hornbow, 8855, 25000;
 			cranial basher, 7415, 30000;
+			crocodile boots, 3982, 1000;
+			crystal crossbow, 18453, 35000;
 			crystal mace, 2445, 12000;
 			crystal necklace, 2125, 400;
 			crystal ring, 2124, 250;
@@ -85,7 +87,9 @@
 			furry club, 7432, 1000;
 			glacier amulet, 7888, 1500;
 			glacier kilt, 7896, 11000;
+			glacier mask, 7902, 2500;
 			glacier robe, 7897, 11000;
+			glacier shoes, 7892, 2500;
 			gold ring, 2179, 8000;
 			golden armor, 2466, 20000;
 			golden legs, 2470, 30000;
@@ -122,6 +126,7 @@
 			lunar staff, 7424, 5000;
 			magic plate armor, 2472, 90000;
 			magma amulet, 7890, 1500;
+			magma boots, 7891, 2500;
 			magma coat, 7899, 11000;
 			magma legs, 7894, 11000;
 			magma monocle, 7900, 2500;

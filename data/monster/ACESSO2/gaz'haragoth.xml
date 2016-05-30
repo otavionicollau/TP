@@ -94,15 +94,32 @@
 		<item id="2470" chance="25000"/><!-- golden legs -->
 		<item id="7899" chance="25000"/><!-- magma coat -->
 		<item id="22398" chance="25000"/><!-- crude umbral blade -->
+		<item id="22399" chance="15000"/><!-- umbral blade -->
+		<item id="22400" chance="10000"/><!-- umbral master blade -->
+		<item id="22401" chance="25000"/><!-- crude umbral slayer -->
+		<item id="22402" chance="15000"/><!-- umbral slayer -->
+		<item id="22403" chance="10000"/><!-- umbral master slayer -->
 		<item id="22404" chance="25000"/><!-- crude umbral axe -->
-
-
+		<item id="22405" chance="15000"/><!-- umbral axe -->
+		<item id="22406" chance="10000"/><!-- umbral master axe -->
+		<item id="22407" chance="25000"/><!-- crude umbral chopper -->
+		<item id="22408" chance="15000"/><!-- umbral chopper -->
+		<item id="22409" chance="10000"/><!-- umbral master chopper -->
+		<item id="22410" chance="25000"/><!-- crude umbral mace -->
+		<item id="22411" chance="15000"/><!-- umbral mace -->
+		<item id="22412" chance="10000"/><!-- umbral master mace -->
 		<item id="22413" chance="25000"/><!-- crude umbral hammer -->
-
+		<item id="22414" chance="15000"/><!-- umbral hammer -->
+		<item id="22415" chance="10000"/><!-- umbral master hammer -->
 		<item id="22416" chance="25000"/><!-- crude umbral bow -->
 		<item id="22417" chance="15000"/><!-- umbral bow -->
 		<item id="22418" chance="10000"/><!-- umbral master bow -->
+		<item id="22419" chance="25000"/><!-- crude umbral crossbow -->
+		<item id="22420" chance="15000"/><!-- umbral crossbow -->
+		<item id="22421" chance="10000"/><!-- umbral master crossbow -->
+		<item id="22422" chance="25000"/><!-- crude umbral spellbook -->
 		<item id="22423" chance="15000"/><!-- umbral spellbook -->
+		<item id="22424" chance="10000"/><!-- umbral master spellbook -->
 		<item id="22609" chance="25000"/><!-- dream warden claw -->
 		<item id="22610" chance="25000"/><!-- dream warden mask -->
 		<item id="18413" countmax="5" chance="100000"/><!-- blue crystal shard -->

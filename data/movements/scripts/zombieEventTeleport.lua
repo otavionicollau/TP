@@ -26,6 +26,6 @@
     end
 
     -- Execute join event
-
     player:joinZombieEvent()
     return true
+end

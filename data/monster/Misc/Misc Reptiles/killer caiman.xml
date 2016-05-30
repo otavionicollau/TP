@@ -42,5 +42,6 @@
 		<item id="11245" countmax="2" chance="4800"/>		<!-- bunch of ripe rice -->
 		<item id="7632" chance="500"/>						<!-- giant shimmering pearl -->
 		<item id="7633" chance="500"/>						<!-- giant shimmering pearl -->
+		<item id="3982" chance="490"/>						<!-- crocodile boots -->
 	</loot>
 </monster>

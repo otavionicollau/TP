@@ -94,5 +94,6 @@
 		<item id="26005" chance="1070"/>					<!-- rift crossbow -->
 		<item id="26004" chance="1570"/>					<!-- rift bow -->
 		<item id="25897" chance="200"/>					<!-- rift lance -->
+		<item id="18400" chance="420"/>					<!-- muck rod -->
 	</loot>
 </monster>

@@ -1,4 +1,4 @@
-local min, max = 1200,1300 --Ataque mínino e ataque máximo
+local min, max = 1100,1200 --Ataque mínino e ataque máximo
 
 local w = {
 	[1] = {ef = 7, sh = 4, dmg = COMBAT_FIREDAMAGE},

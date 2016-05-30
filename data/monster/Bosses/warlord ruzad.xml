@@ -53,6 +53,7 @@
 		<item id="7618" chance="920"/>					<!-- health potion -->
 		<item id="2497" chance="840"/>					<!-- crusader helmet -->
 		<item id="2434" chance="790"/>					<!-- dragon hammer -->
+		<item id="7891" chance="750"/>					<!-- magma boots -->
 		<item id="7395" chance="580"/>					<!-- orc trophy -->
 		<item id="2165" chance="580"/>					<!-- stealth ring -->
 	</loot>

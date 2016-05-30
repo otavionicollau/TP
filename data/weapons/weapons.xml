@@ -22,7 +22,7 @@
 			<vocation name="Master Sorcerer" />
 	</wand>
 
-	<wand id="12327" level="8" mana="30" script="elementos/III.lua">
+	<wand id="22410" level="8" mana="30" script="elementos/III.lua">
 			<vocation name="Druid" />
 			<vocation name="Sorcerer" />
 			<vocation name="Elder Druid" />

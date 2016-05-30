@@ -66,7 +66,6 @@
 		<item id="2663" chance="430"/>					<!-- mystic turban -->
 		<item id="7449" chance="380"/>					<!-- crystal sword -->
 		<item id="7387" chance="340"/>					<!-- diamond sceptre -->
-		<item id="7892" chance="280"/>					<!-- glacier shoes -->
 		<item id="7459" chance="90"/>					<!-- pair of earmuffs -->
 	</loot>
 </monster>

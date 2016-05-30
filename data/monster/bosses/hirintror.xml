@@ -71,7 +71,5 @@
 		<item id="7449" chance="16670"/><!-- crystal sword -->
 		<item id="2479" chance="33330"/><!-- strange helmet -->
 		<item id="7290" chance="16670"/><!-- shard -->
-		<item id="7902" chance="33330"/><!-- glacier mask -->
-		<item id="7892" chance="33330"/><!-- glacier shoes -->
 	</loot>
 </monster>

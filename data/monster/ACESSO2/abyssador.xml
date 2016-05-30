@@ -64,7 +64,6 @@
 	</voices>
 	<loot>
 		<item id="18496" chance="100000"/>	<!-- abyssador's lash -->
-		<item id="18453" chance="8333"/>	<!-- crystal crossbow -->
 		<item id="18451" chance="8333"/>	<!-- crystalline axe -->
 		<item id="18465" chance="8333"/>	<!-- shiny blade -->
 		<item id="18450" chance="6666"/>	<!-- crystalline sword -->

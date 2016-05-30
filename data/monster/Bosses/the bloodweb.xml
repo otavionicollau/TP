@@ -52,7 +52,6 @@
 		<item id="7364" countmax="9" chance="100000"/><!-- platinum coin -->
 		<item id="7589" chance="100000"/><!-- strong mana potion -->
 		<item id="5879" chance="50000"/><!-- spider silk-->
-		<item id="7902" chance="33333"/><!-- glacier mask -->
 		<item id="7896" chance="33333"/><!-- glacier kilt -->
 		<item id="11306" chance="20000"/><!-- sais -->
 		<item id="7437" chance="20000"/><!-- sapphire hammer -->

@@ -76,11 +76,9 @@
 		<item id="7590" chance="9000"/>					<!-- great mana potion -->
 		<item id="2150" countmax="3" chance="8400"/>	<!-- small amethyst -->
 		<item id="2214" chance="3750"/>					<!-- ring of healing -->
-		<item id="2662" chance="2030"/>					<!-- magician hat -->
 		<item id="2153" chance="1330"/>					<!-- violet gem -->
 		<item id="2176" chance="310"/>					<!-- orb -->
 		<item id="2447" chance="230"/>					<!-- twin axe -->
 		<item id="11207" chance="160"/>					<!-- mini mummy -->
-		<item id="2184" chance="100"/>					<!-- crystal wand -->
 	</loot>
 </monster>

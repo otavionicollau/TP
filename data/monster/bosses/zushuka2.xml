@@ -66,11 +66,8 @@
 		<item id="21400" chance="100000"/><!-- silver raid token -->
 		<item id="21699" chance="1500"/><!-- trapped lightning -->
 		<item id="2148" countmax="200" chance="92310"/><!-- gold coin -->
-		<item id="7892" chance="38460"/><!-- glacier shoes -->
-		<item id="21700" chance="1500"/><!-- icy culotte -->
 		<item id="7896" chance="15380"/><!-- glacier kilt -->
 		<item id="7897" chance="7690"/><!-- glacier robe -->
-		<item id="7902" chance="7690"/><!-- glacier mask -->
 		<item id="9971" chance="15380"/><!-- gold ingot -->
 		<item id="7440" chance="30770"/><!-- mastermind potion -->
 		<item id="7439" chance="30770"/><!-- berserk potion -->

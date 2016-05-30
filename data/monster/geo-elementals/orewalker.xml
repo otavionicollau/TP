@@ -81,6 +81,5 @@
 		<item id="2491" chance="890"/><!-- crown helmet -->
 		<item id="8878" chance="560"/><!-- crystalline armor -->
 		<item id="2487" chance="370"/><!-- crown armor -->
-		<item id="18453" chance="300"/><!-- crystal crossbow -->
 	</loot>
 </monster>

@@ -58,6 +58,5 @@
 		<item id="15400" chance="3130"/> <!-- deepling staff -->
 		<item id="5895" chance="1950"/><!-- fish fin -->
 		<item id="15403" chance="1330"/> <!-- necklace of the deep -->
-		<item id="15644" chance="39"/> <!-- ornate crossbow -->
 	</loot>
 </monster>
